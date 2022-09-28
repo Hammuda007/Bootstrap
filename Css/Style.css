@@ -6,3 +6,7 @@
 .mycard :hover{
     border: 1px solid red;
 }
+.mydiv{
+    color: white;
+    background-image: url("../Images/background.jpg")
+}
